@@ -3,7 +3,7 @@ title: "[Data structure] 검색"
 strapline: "검색 자료구조와 알고리즘"
 description: "자료구조 학습"
 header:
- overlay_image: /assets/images/triangular.jpeg
+ overlay_image: /assets/images/background.jp
 categories:
   - "Data structure"
 tag:
